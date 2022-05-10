@@ -1,3 +1,6 @@
+### Nota importante
+Al ser el modelo guardado (.joblib) más pesado que 25MB, este no se pudo subir a GitHub. Por lo tanto, al momento de correrlo es necesario correr el modelo y el resultado pegarlo en la carpeta de "Proyecto API"
+
 # Proyecto1 Fase2
 ## Integrantes:
 - Sara Calle
